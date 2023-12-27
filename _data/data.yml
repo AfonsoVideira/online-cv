@@ -67,21 +67,18 @@ career-profile:
       My passion for science ignited early,
       sparked by childhood curiosity about dinosaurs,
       leading me to explore diverse scientific subjects from biology to physics through books and online research.
-      My academic journey reflects this curiosity. 
-      Despite a broad interest in science throughout my pre-university education,
-      choosing a specific branch proved challenging.
-      I embarked on Electrical Engineering at FEUP initially but later transitioned to Biology at FCUP for my bachelor's degree,
-      drawn by the allure of life sciences. Then I've pursued a Master's in Bioinformatics and Computational Biology at FCUP
-      ***the programming bug won I guess*** &#128517;.
-# This journey equipped me with expertise in Python (Pyramid framework) for backend development and frontend technologies like HTML, CSS, JavaScript, and React.
-# Professionally, I've merged my academic prowess with roles spanning biotech, research,
-# and software development. My contributions encompass streamlining development environments,
-# managing CI/CD pipelines, orchestrating infrastructure using Kubernetes,
-# and fortifying systems through secure authentication services.
+      I started my academical studies on Electrical Engineering at FEUP initially, but later transitioned to Biology
+      for my bachelor's degree, drawn by the allure of the life sciences. Soon enough, just like bugs crawl into code &#128030;,
+      coding crawled back into my life, leading me to pursue a Master's in Bioinformatics and Computational Biology.
 
-# Throughout, my focus remains on advancing technology, 
-# optimizing workflows, and fostering synergy between scientific exploration and technological innovation.
-
+      Soon after concluding my master thesis I've joined Mitotag where I managed their experimental data and develop tools to
+      perform data analysis and visualization. Wanted to grow even further as a professional software developer, 
+      but not wanting to leave the biotech field, I found that Amyris was the place I wanted to be and joined as a developer.
+      Withing a big software team at Amyris I've helped build in-house software solutions
+      tailored for the Research and Development (R&D) department. As my software knowledge grew so did my new focus within the company,
+      and I've transition to a DevOps role, where I help optimize development, testing, and production environments and manage infrastructure.
+      
+    
 education:
     title: Education
     info:
@@ -252,6 +249,14 @@ skills:
       - name: Javascript & React
         level: 80%
 
+      - name: Gitlab CI/CD
+        level: 90%
+
+      - name: Docker
+        level: 90%
+
+      - name: Kubernetes
+        level: 70%
 
 
 footer: >
